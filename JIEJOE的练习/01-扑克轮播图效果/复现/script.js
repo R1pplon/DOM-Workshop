@@ -19,7 +19,7 @@ const poker = {
     this.poker_else.forEach((ele, index) => {
       ele.nums = index;
     });
-    this.img_index = this.poker_eles.length;
+    this.img_index = this.poker_else.length;
   },
   move() {
     this.poker_else.map((ele) => {

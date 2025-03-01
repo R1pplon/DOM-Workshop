@@ -41,7 +41,10 @@ body {
 .poker_top:hover {
   background-color: azure;
 }
-
+#poker_top_img {
+  width: 100%;
+  height: 100%;
+}
 .poker img {
   position: relative;
   width: 100%;
