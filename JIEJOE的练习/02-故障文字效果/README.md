@@ -1,4 +1,4 @@
-# faulttext 实现步骤
+# faulttext 实现思路
 
 ## 颜色分离
 
